@@ -1,6 +1,5 @@
 
 package stringutility;
-import java.lang.StringBuilder;
 import java.io.PrintStream;
 public class StringUtility {
 
